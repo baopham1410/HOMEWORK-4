@@ -1,1 +1,1 @@
-Mã SV: 22, Họ Tên: 2, Giới Tính: 2, Điểm Python: 2.0, Điểm Java: 22.0, Điểm TB: 15.333333333333334, Kết Quả: Đậu
+Mã SV: 12, Họ Tên: Bao, Giới Tính: nam, Điểm Python: 10.0, Điểm Java: 5.0, Điểm TB: 6.666666666666667, Kết Quả: Đậu
